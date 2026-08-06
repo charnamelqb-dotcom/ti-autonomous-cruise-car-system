@@ -1,0 +1,21 @@
+﻿# Build outputs
+Debug/
+Release/
+*.o
+*.obj
+*.d
+*.out
+*.map
+*.elf
+*.hex
+*.bin
+*.lst
+*_linkInfo.xml
+
+# IDE/cache
+.metadata/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
